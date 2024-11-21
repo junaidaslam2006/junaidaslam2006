@@ -24,6 +24,8 @@ I am exploring both **frontend** and **backend** technologies, as well as **data
 ### I'm currently learning:
  
 - Improving my skills in **C++** and **Java** and **Python**.
+-  **Data Structures and Algorithms (DSA)** to strengthen my problem-solving abilities.
+- Learning **Git** for version control and collaboration.
 
 Feel free to explore my repositories and projects!
 
