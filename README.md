@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile
 
-👨‍💻 I'm a passionate software developer currently in the **learning phase** 🚀.  
+👨‍💻 I want to be a passionate software developer currently in the **learning phase** 🚀.  
 I am exploring both **frontend** and **backend** technologies, as well as **databases**.
 
 ### My Tech Stack
