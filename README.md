@@ -42,7 +42,7 @@ I build intelligent systems, automate workflows, and create AI agents that solve
 
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/junaidahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:junaid@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:aslamjunaid838@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
