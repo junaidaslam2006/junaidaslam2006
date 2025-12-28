@@ -1,13 +1,15 @@
+<div align="center">
+
 # 👋 Hi, I'm Junaid Ahmad
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FF&width=600&lines=AI+Engineer;Machine+Learning;Deep+Learning;AI+Agents;Automation+Expert" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning;Deep+Learning;AI+Agents;Automation+Expert" alt="Typing SVG" />
 
 ---
 
 ### 🚀 About Me
 I build intelligent systems, automate workflows, and create AI agents that solve real-world problems. Passionate about turning cutting-edge AI research into practical applications.
+
+</div>
 
 ---
 
@@ -36,10 +38,10 @@ I build intelligent systems, automate workflows, and create AI agents that solve
 
 ---
 
+<div align="center">
+
 ### 🐍 Contribution Activity (The LED Snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 ---
 
@@ -49,15 +51,12 @@ I build intelligent systems, automate workflows, and create AI agents that solve
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/junaidahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/junaid_ahmad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/junaidahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
 
 💡 *"Building intelligent systems today for a smarter tomorrow."*
+
+</div>
