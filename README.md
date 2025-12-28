@@ -1,58 +1,63 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm Junaid Ahmad
+# 👋 Hi, I'm Junaid Ahmad
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&width=500&lines=AI+Engineer;Machine+Learning+Expert;AI+Agents+%26+Automation;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FF&width=600&lines=AI+Engineer;Machine+Learning;Deep+Learning;AI+Agents;Automation+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌌 Profile Overview
-I build **intelligent systems**, automate complex workflows, and architect **AI agents** that solve real-world problems. I bridge the gap between cutting-edge AI research and practical, high-impact automation.
+### 🚀 About Me
+I build intelligent systems, automate workflows, and create AI agents that solve real-world problems. Passionate about turning cutting-edge AI research into practical applications.
 
 ---
 
-### 🛠️ Tech Stack (Neon Glow Edition)
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI & ML** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Agents & Automation** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![GenKit](https://img.shields.io/badge/GenKit-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **DevOps & Data** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+### 💼 Current Roles
+- 🤖 **AI Engineer** | Python, TensorFlow, PyTorch, Scikit-learn  
+- 🧠 **Open Source Contributor** | LangChain, GenKit, AI Agents  
+- ⚡ **Automation Enthusiast** | n8n, Python scripts & agentic workflows  
 
 ---
 
-### 🏆 Key Achievements
-* 🤖 **AI Agents:** Built autonomous systems for productivity and enterprise automation.
-* 🧠 **Generative AI:** Expert in LLM orchestration using LangChain and agentic workflows.
-* ⚡ **Open Source:** Active contributor to GenKit and automation ecosystems.
-* 📊 **Scalable ML:** Developed DL models for Computer Vision and NLP.
+### 🏆 Achievements
+- Built **AI-powered agents** for productivity and automation  
+- Developed **ML & DL projects** in NLP, computer vision, and generative AI  
+- Contributor to **AI open-source projects** and workflows  
+- Worked on **agentic systems** that integrate LangChain, GenKit, and n8n  
 
 ---
 
-### 📊 Vital Statistics
+### 💻 Tech Stack
+
+| Languages | Frameworks & Libraries | Tools & Platforms |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 🐍 Contribution Activity (The LED Snake)
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
 
-### 🐍 Contribution Neon Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+### 📊 GitHub Stats
+![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/junaidahmad" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/junaid_ahmad" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:junaid@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/junaidahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/junaid_ahmad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
 </p>
 
-<p align="center">💡 <i>"Building intelligent systems today for a smarter tomorrow."</i></p>
+💡 *"Building intelligent systems today for a smarter tomorrow."*
