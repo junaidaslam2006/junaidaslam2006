@@ -15,7 +15,7 @@ I build intelligent systems, automate workflows, and create AI agents that solve
 
 ### 💼 Current Roles
 - 🤖 **AI Engineer** | Python, TensorFlow, PyTorch, Scikit-learn  
-- 🧠 **Open Source Contributor** | LangChain, GenKit, AI Agents  
+- 🧠 **Open Source Contributor** | LangChain, Gemma, sktime 
 - ⚡ **Automation Enthusiast** | n8n, Python scripts & agentic workflows  
 
 ---
@@ -24,7 +24,7 @@ I build intelligent systems, automate workflows, and create AI agents that solve
 - Built **AI-powered agents** for productivity and automation  
 - Developed **ML & DL projects** in NLP, computer vision, and generative AI  
 - Contributor to **AI open-source projects** and workflows  
-- Worked on **agentic systems** that integrate LangChain, GenKit, and n8n  
+- Worked on **agentic systems** that integrate LangChain and n8n  
 
 ---
 
