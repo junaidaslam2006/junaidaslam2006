@@ -42,7 +42,6 @@ So I stopped waiting for someone.
 ```diff
 + scraped, cleaned, deduped a corpus that did not exist
 + fixed tokenization for a script that breaks tokenizers
-+ synthetic instruction pipelines · multi-key · dialect-rotated
 + fine-tuned. evaluated. broke it. fixed it. shipped it.
 = PAKISTAN'S FIRST PASHTO LLM
 ```
