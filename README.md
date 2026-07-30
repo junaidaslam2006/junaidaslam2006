@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Junaid — AI Engineer, low-resource NLP"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1100&color=8FBE6E&center=true&vCenter=true&multiline=true&width=880&height=110&lines=they+said+%22there's+no+data+for+that+language%22;i+said+%22correct.+that's+the+project.%22;LLMs+%C2%B7+Agents+%C2%B7+Vision+%C2%B7+GenAI+%C2%B7+Open+Source" alt=""/>
+<img src="assets/hero.svg" width="100%" alt=""/>
 
 <br>
 
@@ -150,7 +146,7 @@ Before transformers ate the world there was feature engineering, and I still res
 
 <a href="https://www.linkedin.com/in/junaid-ahmad-646117330/"><img src="https://img.shields.io/badge/LinkedIn-A3C572?style=for-the-badge&logo=linkedin&logoColor=16211C"/></a>
 <a href="mailto:aslamjunaid838@gmail.com"><img src="https://img.shields.io/badge/Email-B7A9C9?style=for-the-badge&logo=gmail&logoColor=16211C"/></a>
-<a href="https://huggingface.co/junaid008"><img src="https://img.shields.io/badge/HuggingFace-F0C87A?style=for-the-badge&logo=huggingface&logoColor=16211C"/></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-F0C87A?style=for-the-badge&logo=huggingface&logoColor=16211C"/></a>
 
 <br><br>
 
